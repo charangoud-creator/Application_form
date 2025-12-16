@@ -1,0 +1,24 @@
+body {
+    background-size: cover;
+    font-family: "Segoe UI", sans-serif;
+
+}
+
+.form-card {
+    max-width: 650px;
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 12px;
+}
+
+form input, form select, form textarea {
+    border-radius: 8px !important;
+    border: 1px solid #ccc !important;
+}
+
+header {
+    border-bottom: 5px solid #004085;
+}
+
+footer {
+    margin-top: 60px;
+}
